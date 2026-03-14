@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StatsisSmp.aternos.me:48582",
+    "ip": StatsisSmp.aternos.me,
     "port": 48582,
     "version": "",
     "try-creative": false
